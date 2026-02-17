@@ -1,4 +1,4 @@
-# personal-portfolio
+# personal-portfolio(Capstone 2)
 Capstone project: responsive personal portfolio website using only HTML &amp; CSS.
 ## Features
 - Semantic HTML structure
