@@ -6,4 +6,4 @@ Capstone project: responsive personal portfolio website using only HTML &amp; CS
 - Accessible images with alt text
 - Clean and organized CSS
 ## Screenshot
-![Portfolio screenshot](assets/screenshot.png)
+![Portfolio screenshot](assets/screenshot.png.jpeg)
